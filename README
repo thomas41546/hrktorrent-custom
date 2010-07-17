@@ -1,0 +1,4 @@
+Note to run:
+
+include libdir in: /etc/ld.so.conf
+run ldconfig
